@@ -1,5 +1,5 @@
-Stock kernel (SEA) for Samsung Galaxy Star Duos from samsung opensource.
-GT-S5282_SEA_JB_Opensource.zip
+Stock kernel (MEA) for Samsung Galaxy Star Duos from samsung opensource.
+GT-S5282_MEA_JB_Opensource.zip
 
 Contents of Readme_KERNEL.txt found inside the zip.
 ################################################################################
