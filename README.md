@@ -1,5 +1,5 @@
-Stock kernel (SEA) for Samsung Galaxy Star Duos from samsung opensource.
-GT-S5282_SEA_JB_Opensource.zip
+Stock kernel (MEA) for Samsung Galaxy Star from samsung opensource.
+GT-S5280_MEA_JB_Opensource.zip
 
 Contents of Readme_KERNEL.txt found inside the zip.
 ################################################################################
@@ -14,7 +14,7 @@ Contents of Readme_KERNEL.txt found inside the zip.
 		 - ARCH ?= arm
 		edit "CROSS_COMPILE" to right toolchain path(You downloaded).
 		  EX)  CROSS_COMPILE= $(android platform directory you download)/android/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-
-          Ex)  CROSS_COMPILE=/usr/local/toolchain/arm-eabi-4.4.3/bin/arm-eabi-          // check the location of toolchain
+      Ex)  CROSS_COMPILE=/usr/local/toolchain/arm-eabi-4.4.3/bin/arm-eabi-          // check the location of toolchain
   	
 		$ make mint-vlx-rev03_defconfig
 		$ make zImage
